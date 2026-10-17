@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "osa822630-strix",
+  "description": "Marketplace for Strix AI-assisted security testing skills.",
+  "owner": {
+    "name": "osa822630-droid"
+  },
+  "plugins": [
+    {
+      "name": "strix",
+      "description": "AI-assisted penetration testing, application security reviews, OWASP testing, vulnerability remediation, and CI/CD security scanning.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/osa822630-droid/strix.git",
+        "path": "skills",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/osa822630-droid/strix"
+    }
+  ]
+}
