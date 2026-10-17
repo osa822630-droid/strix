@@ -1,0 +1,21 @@
+{
+  "name": "strix",
+  "displayName": "Strix Security Testing",
+  "description": "Nine security testing workflows using Strix for authorized penetration testing, application security, OWASP assessments, vulnerability remediation, and CI/CD scanning.",
+  "author": {
+    "name": "osa822630-droid"
+  },
+  "homepage": "https://github.com/osa822630-droid/strix",
+  "repository": "https://github.com/osa822630-droid/strix",
+  "license": "Apache-2.0",
+  "keywords": [
+    "security",
+    "penetration-testing",
+    "pentesting",
+    "OWASP",
+    "vulnerability-scanning"
+  ],
+  "skills": [
+    "."
+  ]
+}
